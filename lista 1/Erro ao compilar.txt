@@ -1,0 +1,2 @@
+eae prefessor, aconteceu que fiz a maioria dos exercicios dessa lista no vscode, mas ao passar pro drive pra poder reabrir esse arquivos no meu pc em casa ele corrompeu, ou
+meu vscode que deu pau, mas enfim, caso ele não abra no vscode (não sei qual compilador você usa mas caso dê erro), eu rodei no atom. 
